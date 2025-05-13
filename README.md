@@ -1,4 +1,4 @@
-# Digital Certificate Manager
+# Certificate-upgrade
 
 A modern, responsive web application for displaying and managing digital certificates. This project allows users to view, download, and share their certificates, including direct integration with LinkedIn.
 
