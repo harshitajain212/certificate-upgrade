@@ -12,7 +12,7 @@ A modern, responsive web application for displaying and managing digital certifi
 
 ## Live Demo
 
-Visit the live demo at: [Digital Certificate Manager](https://harshitajain212.github.io/digital-certificate-manager/)
+Visit the live demo at: [certificate-upgrade](https://harshitajain212.github.io/certificate-upgrade/)
 
 ## Getting Started
 
@@ -20,12 +20,12 @@ Visit the live demo at: [Digital Certificate Manager](https://harshitajain212.gi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/harshitajain212/digital-certificate-manager.git
+        git clone https://github.com/harshitajain212/certificate-upgrade.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd digital-certificate-manager
+     cd certificate-upgrade
    ```
 
 3. Open the project in your preferred code editor
